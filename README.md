@@ -1,4 +1,26 @@
-## Hi there 👋
+### Hi there 👋
+### 🎈 I'm Frontend + bot developer 
+
+### 💻 Stack:
+- Python (Disnake, NumPy, TensorFlow);
+- SQL (SQLite);
+- NextJS;
+- TailWind;
+- React;
+- TypeScript;
+- GIT (GitHub);
+
+### 📚 Want to learn:
+- GO, Docker, VueJS, Astro.
+
+### 🔮 My projects:
+- [SquadsBot](https://squadsbot.ru/)
+- [RannyBot](https://discord.com/oauth2/authorize?client_id=1284123685690802269)
+
+### 📊 About me:
+I`m Maxim! I'm 16 y.o.🎭
+🍀 › Hobbies — Coding, Anime.
+🧊 › Birthday — 12 March.
 
 <!--
 **RanVix/RanVix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -18,8 +18,8 @@
 - [RannyBot](https://discord.com/oauth2/authorize?client_id=1284123685690802269)
 
 ### 📊 About me:
-I`m Maxim! I'm 16 y.o.🎭
-🍀 › Hobbies — Coding, Anime.
+I`m Maxim! I'm 16 y.o.🎭 <br>
+🍀 › Hobbies — Coding, Anime. <br>
 🧊 › Birthday — 12 March.
 
 <!--

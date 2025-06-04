@@ -14,6 +14,7 @@
 - GO, Docker, VueJS, Astro.
 
 ### 🔮 My projects:
+- [ClefAI](https://clef-ai.ru/)
 - [SquadsBot](https://squadsbot.ru/)
 - [RannyBot](https://discord.com/oauth2/authorize?client_id=1284123685690802269)
 

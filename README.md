@@ -1,27 +1,25 @@
 ### Hi there 👋
-### 🎈 I'm Frontend + bot developer 
+### 🎈 I'm Frontend developer 
 
 ### 💻 Stack:
-- Python (Disnake, NumPy, TensorFlow);
-- SQL (SQLite);
 - NextJS;
+- - React;
 - TailWind;
-- React;
 - TypeScript;
+- JavaScript;
 - GIT (GitHub);
+- Docker;
 
 ### 📚 Want to learn:
-- GO, Docker, VueJS, Astro.
+- GO, Angular, VueJS.
 
 ### 🔮 My projects:
 - [Portfolio](https://ranvix-portfolio.ru)
-- [ClefAI](https://clef-ai.ru/)
-- [SquadsBot](https://squadsbot.ru/)
 - [RannyBot](https://discord.com/oauth2/authorize?client_id=1284123685690802269)
 
 ### 📊 About me:
 I`m Maxim! I'm 17 y.o.🎭 <br>
-🍀 › Hobbies — Coding, Anime. <br>
+🍀 › Hobbies — Coding, Anime, Manga. <br>
 🧊 › Birthday — 12 March.
 
 <!--

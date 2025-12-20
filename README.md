@@ -3,7 +3,7 @@
 
 ### 💻 Stack:
 - NextJS;
-- - React;
+- React;
 - TailWind;
 - TypeScript;
 - JavaScript;

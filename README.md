@@ -11,14 +11,10 @@
 - Docker;
 
 ### 📚 Want to learn:
-- GO, Angular, VueJS.
-
-### 🔮 My projects:
-- [Portfolio](https://ranvix-portfolio.ru)
-- [RannyBot](https://discord.com/oauth2/authorize?client_id=1284123685690802269)
+- Kotlin, VueJS
 
 ### 📊 About me:
-I`m Maxim! I'm 17 y.o.🎭 <br>
+I`m Maxim, 17 y.o.🎭 <br>
 🍀 › Hobbies — Coding, Anime, Manga. <br>
 🧊 › Birthday — 12 March.
 

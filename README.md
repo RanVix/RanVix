@@ -15,8 +15,8 @@
 
 ### ✨ Projects:
 - [SparkNews](https://spark-news-iota.vercel.app/)
+- - [SquadSite](https://squad-site-rho.vercel.app/)
 - [Планшетка приложение](https://github.com/RanVix/RKSIPlanshetkaMobile)
-
 
 ### 📊 About me:
 I`m Maxim, 18 y.o.🎭 <br>

@@ -16,6 +16,7 @@
 ### ✨ Projects:
 - [SparkNews](https://spark-news-iota.vercel.app/)
 - [SquadSite](https://squad-site-rho.vercel.app/)
+- [ЭТО ПУТЕШЕСТВИЕ](https://travel-cookie.vercel.app/)
 - [Планшетка приложение](https://github.com/RanVix/RKSIPlanshetkaMobile)
 
 ### 📊 About me:
